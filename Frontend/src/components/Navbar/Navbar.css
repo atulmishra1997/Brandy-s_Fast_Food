@@ -1,0 +1,10 @@
+.navbar-profile:hover .nav-profile-dropdown{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #323250;
+    border-radius: 4px;
+    border: 2px solid rgb(152, 115, 5);
+    outline: 3px solid #4d4d71;
+    cursor: pointer;
+}
